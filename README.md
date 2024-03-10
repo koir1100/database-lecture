@@ -30,3 +30,14 @@
 #### ERD
 <img width="960" alt="Section02-6" src="https://github.com/koir1100/database-lecture/assets/4710834/61e9deae-d351-4e2e-a91f-57daa25d1983">
 
+## Section 03
+
+### 강의 내용 1 (테이블 및 데이터 추가)
+<img alt="Section03-1" src="https://github.com/koir1100/database-lecture/assets/4710834/a902d90a-2e10-49cc-974c-d8fbfd505a0d">
+
+### 강의 내용 2 (JOIN)
+<img alt="Section03-2" src="https://github.com/koir1100/database-lecture/assets/4710834/31af3b81-10af-4f1a-8dbb-a97d50f44252">
+
+### 강의 내용 3 (INDEX, EXPLAIN)
+<img alt="Section03-3" src="https://github.com/koir1100/database-lecture/assets/4710834/8fc4e247-5849-4ba9-83aa-2dc83db92f56)">
+
