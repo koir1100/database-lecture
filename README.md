@@ -41,3 +41,16 @@
 ### 강의 내용 3 (INDEX, EXPLAIN)
 <img alt="Section03-3" src="https://github.com/koir1100/database-lecture/assets/4710834/8fc4e247-5849-4ba9-83aa-2dc83db92f56)">
 
+## Section 04
+
+### 강의 내용 1 (트랜잭션, 프로시저)
+<img width="1080" alt="Section04-1" src="https://github.com/koir1100/database-lecture/assets/4710834/91751c9a-bdea-4769-a85b-625db4b065fb">
+<img width="1080" alt="Section04-2" src="https://github.com/koir1100/database-lecture/assets/4710834/84fb90aa-b3d9-4363-ac5d-4b4e579c2098">
+
+### 강의 내용 2 (트리거)
+<img width="1080" alt="Section04-3-1" src="https://github.com/koir1100/database-lecture/assets/4710834/fbcb2b3f-fceb-4437-9ea7-4e9baeaa0aba">
+<img width="1080" alt="Section04-3-2" src="https://github.com/koir1100/database-lecture/assets/4710834/9b319eb7-6516-46e7-89d4-0af7f8d22ef8">
+
+### 강의 내용 3 (뷰)
+<img width="1080" alt="Section04-4-1" src="https://github.com/koir1100/database-lecture/assets/4710834/4c364a91-53f5-4582-8a09-b1274b57e3a0">
+<img width="1080" alt="Section04-4-2" src="https://github.com/koir1100/database-lecture/assets/4710834/8fb606cf-cf85-448a-8a36-43b6e15a5846">
