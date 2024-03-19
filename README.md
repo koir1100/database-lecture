@@ -54,3 +54,8 @@
 ### 강의 내용 3 (뷰)
 <img width="1080" alt="Section04-4-1" src="https://github.com/koir1100/database-lecture/assets/4710834/4c364a91-53f5-4582-8a09-b1274b57e3a0">
 <img width="1080" alt="Section04-4-2" src="https://github.com/koir1100/database-lecture/assets/4710834/8fb606cf-cf85-448a-8a36-43b6e15a5846">
+
+## Section 05 기타 개념들
+<img width="1080" alt="Section05-1" src="https://github.com/koir1100/database-lecture/assets/4710834/c310d049-9d55-4d0f-b698-4c8df2a993a0">
+<img width="1080" alt="Section05-2" src="https://github.com/koir1100/database-lecture/assets/4710834/be292517-a452-4f60-9c28-8428242bb9ae">
+<img width="1080" alt="Section05-3" src="https://github.com/koir1100/database-lecture/assets/4710834/82e47c68-2c6a-47c5-8d21-c36bedc145ea">
