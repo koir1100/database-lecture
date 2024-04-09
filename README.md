@@ -58,4 +58,5 @@
 ## Section 05 기타 개념들
 <img width="1080" alt="Section05-1" src="https://github.com/koir1100/database-lecture/assets/4710834/c310d049-9d55-4d0f-b698-4c8df2a993a0">
 <img width="1080" alt="Section05-2" src="https://github.com/koir1100/database-lecture/assets/4710834/be292517-a452-4f60-9c28-8428242bb9ae">
-<img width="1080" alt="Section05-3" src="https://github.com/koir1100/database-lecture/assets/4710834/82e47c68-2c6a-47c5-8d21-c36bedc145ea">
+<img width="1080" alt="Section05-3" src="https://github.com/koir1100/database-lecture/assets/4710834/8082887d-0dd3-4113-abc6-a431def6b5a1">
+
